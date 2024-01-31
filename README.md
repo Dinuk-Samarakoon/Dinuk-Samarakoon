@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@dinuksamarakoon" target="blank"><img src="https://img.shields.io/twitter/follow/dinuksamarakoon?logo=twitter&style=for-the-badge" alt="@dinuksamarakoon" /></a> </p>
 
-- 🌱 I’m currently learning **Computer Science & Technology Degree Programme in uva Wellassa university of sri lanka**
+- 🌱 I’m currently learning **Computer Science & Technology Degree Programme at Uva Wellassa University of Sri Lanka**
 
 - 💬 Ask me about **react, java, kotlin, javascript**
 
